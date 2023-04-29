@@ -1,0 +1,26 @@
+<annotation>
+	<folder>deaf</folder>
+	<filename>WhatsApp Image 2023-04-29 at 1.00.57 AM (3).jpeg</filename>
+	<path>C:\Users\ayiha\Desktop\CV_AI_Project\RealTimeObjectDetection\Tensorflow\workspace\images\collectedimages\deaf\WhatsApp Image 2023-04-29 at 1.00.57 AM (3).jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1104</width>
+		<height>1472</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>deaf</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>219</xmin>
+			<ymin>640</ymin>
+			<xmax>490</xmax>
+			<ymax>851</ymax>
+		</bndbox>
+	</object>
+</annotation>

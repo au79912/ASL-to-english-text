@@ -1,0 +1,26 @@
+<annotation>
+	<folder>school</folder>
+	<filename>WhatsApp Image 2023-04-29 at 1.02.36 AM (1).jpeg</filename>
+	<path>C:\Users\ayiha\Desktop\CV_AI_Project\RealTimeObjectDetection\Tensorflow\workspace\images\collectedimages\school\WhatsApp Image 2023-04-29 at 1.02.36 AM (1).jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1104</width>
+		<height>1472</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>school</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>257</xmin>
+			<ymin>1058</ymin>
+			<xmax>617</xmax>
+			<ymax>1318</ymax>
+		</bndbox>
+	</object>
+</annotation>
